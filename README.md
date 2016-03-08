@@ -1,8 +1,9 @@
 Yii2  Flat Theme 
 ======================
-Theme for Yii2 Web Applicaiton for yii2.0
+Theme for Yii2 Web Application for yii2.0
 
-Fully based on [bootflat](https://scottdorman.github.io/bootstrap-flat/) - v3.3.4
+Fully based on [Bootstrap Flat](https://scottdorman.github.io/bootstrap-flat/) - v3.3.4
+
 
 Installation
 ------------
