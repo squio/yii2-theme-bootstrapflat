@@ -1,0 +1,26 @@
+{
+    "name": "squio/yii2-theme-bootstrapflat",
+    "description": "Theme for Yii2 Web Application based on Bootstrap Flat",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "extension", "theme", "flat", "bootstrap", "bootstrap flat"],
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "squio",
+            "email": "info@squio.nl"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "support": {
+        "issues": "https://github.com/squio/yii2-theme-bootstrapflat/issues?state=open",
+        "source": "https://github.com/squio/yii2-theme-bootstrapflat"
+    },
+    "autoload": {
+        "psr-4": {
+            "squio\\theme\\bootstrapflat\\": ""
+        }
+    }
+}
