@@ -16,15 +16,7 @@ class BootstrapflatAsset extends AssetBundle
         'css/bootstrap-flat.min.css',
         'css/bootstrap-flat-extras.min.css',
     ];
-    
-//     public $js=[
-//         'js/icheck.min.js',
-//     ];
-//     
-//     public $img=[
-//     	'img/check_flat/default.png',
-//     ]; 
-    
+        
     public $depends = [
         'yii\web\YiiAsset',
         'yii\bootstrap\BootstrapAsset',
