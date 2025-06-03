@@ -4,7 +4,7 @@
   "description": "Flat styles for Bootstrap",
   "main": "build/minify-css.js",
   "scripts": {
-    "build": "node build/minify-css.js"
+    "build": "node src/build/minify-css.js"
   },
   "dependencies": {
     "clean-css": "^5.3.0"
